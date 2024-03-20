@@ -8,6 +8,7 @@ See @knuth84 for additional discussion of literate programming.
 
 ```{r}
 1 + 1
+3 + 3
 ```
 
 ```{tikz}
