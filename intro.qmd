@@ -1,0 +1,19 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+# Diagram
+
+```{r}
+1 + 1
+```
+
+```{tikz}
+#| out-width: 50%
+\begin{tikzpicture}
+  \draw (-1,0) circle (1.5);
+\end{tikzpicture}
+```
+
